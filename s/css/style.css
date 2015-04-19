@@ -13,3 +13,7 @@ h2 {
 h1#h1-subpage {
   font-size: 36px;
 }
+
+#twitter-widget-0 {
+  width: 100% !important;
+}
